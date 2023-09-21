@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalPortfolio",
   "version": "1.0.0",
-  "homepage": "https://chieu.pro/",
+  "homepage": "https://H3ndr1k.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
