@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalPortfolio",
   "version": "1.0.0",
-  "homepage": "https://H3ndr1k.github.io",
+  "homepage": "https://H3ndr1k.github.io/index.html",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
